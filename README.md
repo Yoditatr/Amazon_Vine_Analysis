@@ -19,6 +19,6 @@ In the results sectionn I am trying to addres the following questions.
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-## _Summary_ 
+## _Summary of the analysis_ 
 
 In our randomly selected dataset, there was no Positive bias, because the data is made entirely with bona fida reviews. Additional analysis, could be done at the verified purchaser reviewrs and perform an analysis to see what verified purchasers think of the books compared to other reviewers.
