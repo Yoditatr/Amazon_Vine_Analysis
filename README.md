@@ -7,7 +7,7 @@ I have been tasked with another, larger project: analyzing Amazon reviews writte
 In this project, you’ll have access to approximately 50 datasets. Each one contains reviews of a specific product, from clothing apparel to wireless products. In order to complete this analysis, I have picked a random subset of data of Amazon books reviews details then performed an ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next I used PySpark, Google Collaboratory, and Pandas to determine if there is any bias toward favorable reviews from Vine members in my selected dataset. _______ In this specific example there were no paid reviews on this dataset, and the process to be sure about that was as follows:
 
 
-## _Results of the Analysis## _
+## _Results of the Analysis_
 
 In the results sectionn I am trying to addres the following questions. 
 
@@ -21,6 +21,4 @@ In the results sectionn I am trying to addres the following questions.
 
 ## _Summary_ 
 
-- For randomly selected datasetthere was no Positive bias, because the data is made entirely with bona fida reviews.
-
-- Additional analysis, could be done at the verified purchaser reviewrs and perform an analysis to see what verified purchasers think of the books compared to other reviewers.
+In our randomly selected dataset, there was no Positive bias, because the data is made entirely with bona fida reviews. Additional analysis, could be done at the verified purchaser reviewrs and perform an analysis to see what verified purchasers think of the books compared to other reviewers.
