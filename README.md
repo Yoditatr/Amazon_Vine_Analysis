@@ -9,6 +9,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 First we load our data and clean to get the useful reviews, we then try to split the data to either vine reviews or non-vine reviews. Hence, we filter our data to get the result demostrated below with a snippet of the code. 
 
+![alt text](https://github.com/Yoditatr/Amazon_Vine_Analysis/blob/main/Resources/filtered%20df%20snippet.PNG?raw=true)
 
 ## _Results of the Analysis_
 
