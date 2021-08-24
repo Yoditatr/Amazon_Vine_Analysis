@@ -21,6 +21,8 @@ In the results sectionn I am trying to addres the following questions.
   - In this dataset there are no paid reviews. 
   - The number of 5 star votes is 242889.
 
+![alt text](https://github.com/Yoditatr/Amazon_Vine_Analysis/blob/main/Resources/code%20snippet.PNG?raw=true)
+
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
   - Since the number of paid reviews are zero in this dataset, the number of vine review hence is zero. 
@@ -28,6 +30,9 @@ In the results sectionn I am trying to addres the following questions.
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
   - 60% of the reviews were 5 star. 
+  
+  ![alt text](https://github.com/Yoditatr/Amazon_Vine_Analysis/blob/main/Resources/code%20snippet%202.PNG?raw=true)
+  
   
 ## _Summary of the analysis_ 
 
